@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhule
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Blockcain Energy Trading 
+- 💞️ I’m looking to collaborate on Blockchain Energy Trading 
 - 📫 How to reach me at akhulemguga.am@gmail.com
 
 <!---
